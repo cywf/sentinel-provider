@@ -5,7 +5,7 @@
 
 # Example for apollo
 cat <<EOT > sentries/apollo/resource_apollo.go
-// Your resource_apollo.go code here
+// Please enter relevant code here
 EOT
 
 # Add similar blocks for each of the other sentry resource files

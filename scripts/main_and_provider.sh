@@ -4,11 +4,11 @@
 # Modify the provided template as needed
 
 cat <<EOT > main.go
-// Your main.go code here
+// Please enter relevant code here
 EOT
 
 cat <<EOT > provider.go
-// Your provider.go code here
+// Please enter relevant code here
 EOT
 
 echo "Main and Provider files populated."
