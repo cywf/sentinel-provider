@@ -47,23 +47,23 @@ To install the sentinel-provider, follow these steps:
 ## Sentries
 
 - [apollo](sentries/apollo/): 
-- [ares](sentires/ares/): 
+- [ares](sentries/ares/): 
 - [athena](sentries/athena/): 
-- [demeter](sentires/demeter/):
-- [fenrir](sentires/fenrir/):
-- [hermes](sentires/hermes/):
-- [jupiter](sentires/jupiter/):
-- [lir](sentires/lir/):
-- [lugh](sentires/lugh/):
-- [mercury](sentires/mercury/):
-- [morrigan](sentires/morrigan/):
-- [osiris](sentires/osiris/): 
-- [ptah](sentires/ptah/):
-- [ra](sentires/ra/):
-- [shiva](sentires/shiva/): 
-- [sobek](sentires/sobek/): 
-- [thoth](sentires/thoth/): 
-- [tyche](sentires/tyche/): 
+- [demeter](sentries/demeter/):
+- [fenrir](sentries/fenrir/):
+- [hermes](sentries/hermes/):
+- [jupiter](sentries/jupiter/):
+- [lir](sentries/lir/):
+- [lugh](sentries/lugh/):
+- [mercury](sentries/mercury/):
+- [morrigan](sentries/morrigan/):
+- [osiris](sentries/osiris/): 
+- [ptah](sentries/ptah/):
+- [ra](sentries/ra/):
+- [shiva](sentries/shiva/): 
+- [sobek](sentries/sobek/): 
+- [thoth](sentries/thoth/): 
+- [tyche](sentries/tyche/): 
 
 ## Documentation
 
